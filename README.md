@@ -11,5 +11,6 @@ https://docs.microsoft.com/en-us/office/vba/outlook/how-to/using-visual-basic-to
 ```
 
 ## Manifesto
-outlook-encrypt.vbs: This script is to add the "encrypt" tag to the subject line, it doesnt actually try to encrypt your email. Here we are summing you are running something like proofpoint, and that solution will know to turn on email encryption.
-outlook-security.vbs: This script is going to forward any email you have selected as an attachment and it will automatically delete it for you. This is great if you think the email is malicious and you want to forward it to your IT Security team. 
+**outlook-encrypt.vbs**: This script is to add the "encrypt" tag to the subject line, it doesnt actually try to encrypt your email. Here we are summing you are running something like proofpoint, and that solution will know to turn on email encryption.
+
+**outlook-security.vbs**: This script is going to forward any email you have selected as an attachment and it will automatically delete it for you. This is great if you think the email is malicious and you want to forward it to your IT Security team. 
